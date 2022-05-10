@@ -7,4 +7,4 @@ I'm Learning from the 60Days of DSA course from kunal-kushwaha / DSA-Bootcamp-Ja
 
 I'm learning Hello  world.
 
-More Info [Here](https://github.com/roddavinod99/My60Days-Of-DSA/blob/ec3199ab65be1f0ea0ce4a2010869acd28623ce5/Day001/Day001.md)
+More Info [Here](Day001/Day001.md)
